@@ -1,0 +1,2 @@
+# This is test python to upload to GitHub
+print ("This is test python file to upload from PC")
